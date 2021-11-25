@@ -1,2 +1,3 @@
 # routing-react
-Created with CodeSandbox
+
+reakuto アプリ作成におけるルーティング処理に関してのリポジトリ
